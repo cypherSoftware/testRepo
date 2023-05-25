@@ -11,6 +11,6 @@ Somnewhere else edits in curley braces below
 
 Shared Changes both placesedit same area to cause conflict
 {
-
+  Pick mine its better the local version
 }
 
