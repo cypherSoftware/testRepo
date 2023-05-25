@@ -13,6 +13,7 @@ Shared Changes both placesedit same area to cause conflict
 {
 
   Pick mine its better the local version
-  This is a better resooolution
+  This is a betterls
+   resooolution
 }
 
