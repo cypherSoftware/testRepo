@@ -9,3 +9,8 @@ Somnewhere else edits in curley braces below
   Second Change
 }
 
+Shared Changes both placesedit same area to cause conflict
+{
+
+}
+
